@@ -1,5 +1,7 @@
 # Работа с утилитой screen
 
+![Утлита screen](../imgs/screen.png)
+
 ## Установка screen в Ubuntu
 
 ```bash
